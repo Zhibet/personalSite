@@ -5,3 +5,16 @@ body {
 p{
     line-height: 2.5em;
 }
+
+h3{
+    text-transform: uppercase;
+}
+
+h6{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+li{
+    text-transform: capitalize;
+}
